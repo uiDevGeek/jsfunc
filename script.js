@@ -5,5 +5,7 @@ function add(a, b){
 }
 add(2, 3)
 
-console.log("i am a comment")
-console.log("i am a comment2")
+console.log("\ni am a comment")
+console.log("\ni am a comment2")
+
+console.log("\nA comment of Master Branch")
