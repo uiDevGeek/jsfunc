@@ -6,3 +6,4 @@ function add(a, b){
 add(2, 3)
 
 console.log("i am a comment")
+console.log("i am a comment2")
